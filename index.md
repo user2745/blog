@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Blank Canvas
 
-You can use the [editor on GitHub](https://github.com/user2745/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+...each moment, each day, each choice is a test...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Blank Canvas - Thoughts and Ideas from Kevin Kamto (Aug-Dec 2021)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## - Prompt: Best Computing Experiences
 
-```markdown
-Syntax highlighted code block
+### In Class
 
-# Header 1
-## Header 2
+My computing experiences in class have been boring at best, though engaging and challenging in unique ways.  School has taught me nuances and key techniques that I would have never figured out on my own, but in a way that is spoon fed and sleep inducing.  Courses such as Data Structures and Software Engineering have been my best experiences due to the valuable knowledge they taught me.
+
+### Out of Class
+
+My best computing experiences have generally occurred outside of the academic setting.  The private sector offers a lot more wiggle room in terms of creative endavours such as IoT projects, cryptocurrencies, and beyond.  Strictly speaking on computing experiences, private sector has much more emphasis on 'doing', versus 'doing the right way'.  It is easy to get caught up in bad habits without ever learning the right habits.
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+## Prompt 2
+
 ### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/user2745/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Details
+- To
+- Follow
